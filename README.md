@@ -1,7 +1,7 @@
 # Rondonia Land Cover Change from 1992 to 2020
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-<img alt = "Rondonia Land Cover Change GIF" img src="./Coral Reef Bleaching Dashboard_EmekaEmeche (1).gif"/>
+<img alt = "Rondonia Land Cover Change GIF" img src="./Rondonia Land Cover Change from 1992 to 2020 Emeka Emeche - Google Chrome 2024-06-13 20-58-03.gif"/>
 
 ## How It's Made:
 
