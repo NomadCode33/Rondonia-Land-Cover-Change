@@ -1,11 +1,11 @@
 # Rondonia Land Cover Change from 1992 to 2020
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+An interactive app highlighting the land cover change in Rondonia, detailing the transition from forest to cropland and urban areas from 1992 to 2020 due to deforestation.
 
 <img alt = "Rondonia Land Cover Change GIF" img src="./Rondonia Land Cover Change from 1992 to 2020 Emeka Emeche - Google Chrome 2024-06-13 20-58-03.gif"/>
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** ArcGIS Online, ArcGIS Instant Apps
 
 Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
