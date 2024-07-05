@@ -7,22 +7,28 @@ An interactive app highlighting the land cover change in Rondonia, detailing the
 
 **Tech used:** ArcGIS Online, ArcGIS Instant Apps
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+I began by searching ArcGIS Online for a suitable web map and found the "Rondonia Land Cover Change from 1992 to 2020" map. With this as my foundation, I moved to Instant Apps and selected a template that allowed users to interact with and compare the data over time. The Media Map template was perfect for this purpose. 
 
-## Optimizations
-*(optional)*
+In the Search Settings field, I selected the Swipe tool and turned off the Express Mode window. For the Leading Layers pane, I chose "Rondonia Land Cover 2020_CLIM," and for the Trailing Layers pane, I selected "Rondonia Land Cover 1992_CLIM." This setup enabled a side-by-side comparison of the two maps using a slider tool, which I positioned at 15. 
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+Next, in the Configuration panel under Theme & Layout settings, I changed the theme to dark and fixed the header to display the app title. I also added multiple language options to ensure broader accessibility. Finally, I published the web app, completing an interactive and visually engaging tool to showcase the land cover changes in Rondonia over nearly three decades.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+I discovered the process of sourcing web maps into an interactive app using ArcGIS Instant Apps. This tool proved to be incredibly handy, requiring minimal maintenance and allowing for quick creation. I felt a sense of accomplishment, much like a front-end developer, as I built and sustained an app that was up-to-date, functional, and user-friendly.
+
+Moreover, I was thrilled to learn something new, expanding my skill set and eagerly anticipating future opportunities to apply these skills. The experience was both empowering and exciting, opening new avenues for creativity and professional growth.
+
+## Repositories
+**Profile:** [T3ch12et](https://github.com/T3ch12et) <br>
+**GIS Climate Action Repository:** [ESRI MOOC GIS for Climate Action](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action) <br>
+**Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
+**Miami Sea Level Rise:** [3D Miami Beach Sea Level Rise](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/3D-Miami-Beach-Sea-Level-Rise) <br>
+**Athens Heat Risk Index:** [Athens Heat Risk Index](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Athens-Heat-Risk-Index) <br>
+**Oso Mudslide:** [Oso Mudslide](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Oso-Mudslide) <br>
+**Hurricanes since 1851:** [Hurricanes since 1851](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851) <br>
+**Coral Reef Dashboard:** [Coral Reef Dashboard](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Coral-Reef-Dashboard)
